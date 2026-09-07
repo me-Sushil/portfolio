@@ -155,7 +155,7 @@ export const collection = [
     detail:
       "A 100% complete University of Helsinki curriculum: 168 exercises, 83 hours, React, Node, GraphQL, TypeScript, testing, CI/CD, Docker, and more.",
     tag: "Learning archive",
-    image: "/meeeee.png",
+    image: "/meeeeees.png",
     url: "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/26e2b45ff25626ff7d5063106fbc7e54",
   },
   {

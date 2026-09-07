@@ -15,11 +15,11 @@ export default function HomePage() {
       <SiteNav />
       <main>
         {/* Hero */}
-        <section className="mx-auto grid max-w-7xl items-center gap-12 px-5 pb-24 pt-36 lg:grid-cols-[1fr_410px] lg:px-8 lg:pb-32 lg:pt-44">
+        <section className="mx-auto grid max-w-7xl items-center gap-12 px-5 pb-24 pt-34 lg:grid-cols-[1fr_410px] lg:px-8 lg:pb-32 lg:pt-34">
           <div>
-            <p className="mb-8 font-mono text-xs uppercase tracking-[0.25em] text-accent">
+            {/* <p className="mb-8 font-mono text-xs uppercase tracking-[0.25em] text-accent">
               Full-stack developer · Nepal
-            </p>
+            </p> */}
             <h1 className="max-w-4xl text-balance font-serif text-6xl leading-[0.9] tracking-[-0.055em] sm:text-7xl lg:text-[7.7rem]">
               Building systems
               <br />
@@ -44,7 +44,7 @@ export default function HomePage() {
             <div className="absolute -inset-3 rounded-[2rem] border border-accent/20" />
             <div className="relative aspect-[4/5] overflow-hidden rounded-2xl bg-card">
               <Image
-                src="/meeeee.png"
+                src="/meeeeees.png"
                 alt="Portrait of Sushil Bishowkarma"
                 fill
                 priority

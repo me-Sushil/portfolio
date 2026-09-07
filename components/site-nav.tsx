@@ -35,7 +35,7 @@ export function SiteNav() {
               sizes="44px"
             />
           </span>
-          <span className="hidden font-mono text-xs uppercase tracking-[0.22em] text-muted-foreground transition-colors group-hover:text-foreground sm:block">
+          <span className="hidden font-mono text-lg uppercase tracking-[0.22em] text-muted-foreground transition-colors group-hover:text-foreground sm:block">
             Sushil Bishowkarma
           </span>
         </Link>
@@ -48,7 +48,7 @@ export function SiteNav() {
                 key={href}
                 href={href}
                 className={cn(
-                  "text-xs transition-colors hover:text-foreground",
+                  "text-lg transition-colors hover:text-foreground",
                   active ? "text-foreground" : "text-muted-foreground",
                 )}
               >
@@ -61,7 +61,7 @@ export function SiteNav() {
         <div className="hidden items-center gap-2 md:flex">
           <Link
             href="/millionaire"
-            className="mr-1 inline-flex items-center gap-1.5 rounded-full bg-accent px-3.5 py-1.5 text-xs font-medium text-accent-foreground transition hover:opacity-90"
+            className="mr-1 inline-flex items-center gap-1.5 rounded-full bg-accent px-3.5 py-1.5 text-lg font-medium text-accent-foreground transition hover:opacity-90"
           >
             <Sparkles className="size-3.5" />
             Support
@@ -73,7 +73,7 @@ export function SiteNav() {
             aria-label="GitHub"
             className="rounded-full p-2 text-muted-foreground hover:bg-secondary hover:text-foreground"
           >
-            <Code2 className="size-4" />
+            <Code2 className="size-7" />
           </a>
           <a
             href={socials.linkedin}
@@ -82,7 +82,7 @@ export function SiteNav() {
             aria-label="LinkedIn"
             className="rounded-full p-2 text-muted-foreground hover:bg-secondary hover:text-foreground"
           >
-            <BriefcaseBusiness className="size-4" />
+            <BriefcaseBusiness className="size-7" />
           </a>
         </div>
 

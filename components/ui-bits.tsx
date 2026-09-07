@@ -49,17 +49,17 @@ export function Pill({ children }: { children: React.ReactNode }) {
 }
 
 export function PageHeader({
-  eyebrow,
+  // eyebrow,
   title,
   description,
 }: {
-  eyebrow: string;
+  // eyebrow: string;
   title: React.ReactNode;
   description?: string;
 }) {
   return (
     <div className="mb-16">
-      <SectionLabel>{eyebrow}</SectionLabel>
+      {/* <SectionLabel>{eyebrow}</SectionLabel> */}
       <h1 className="max-w-4xl text-balance font-serif text-5xl leading-[0.95] tracking-[-0.05em] sm:text-7xl">
         {title}
       </h1>

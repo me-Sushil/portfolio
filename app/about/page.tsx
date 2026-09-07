@@ -17,7 +17,7 @@ export default function AboutPage() {
       <SiteNav />
       <main className="mx-auto max-w-7xl px-5 pb-24 pt-36 lg:px-8 lg:pb-32 lg:pt-48">
         <PageHeader
-          eyebrow="About"
+          // eyebrow="About"
           title={
             <>
               Software Engineer focused on

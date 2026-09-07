@@ -14,10 +14,10 @@ export default function MillionairePage() {
   return (
     <>
       <SiteNav />
-      <main className="mx-auto max-w-7xl px-5 pb-24 pt-36 lg:px-8 lg:pb-32 lg:pt-48">
+      <main className="mx-auto max-w-7xl px-5 pb-14 pt-34 lg:px-8 lg:pb-14 lg:pt-34">
         <div className="grid gap-14 lg:grid-cols-[1.2fr_0.8fr] lg:items-end">
           <PageHeader
-            eyebrow="Make me millionaire / Personal manifesto"
+            // eyebrow="Make me millionaire / Personal manifesto"
             title={
               <>
                 I&apos;m building a life
