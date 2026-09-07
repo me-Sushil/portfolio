@@ -6,7 +6,7 @@ import { PageHeader } from "@/components/ui-bits";
 import { email } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Support — Sushil Bishowkarma",
+  title: "Support - Sushil Bishowkarma",
   description: "A public, playful invitation to support Sushil Bishowkarma's independent work.",
 };
 
@@ -41,7 +41,7 @@ export default function MillionairePage() {
               The manifesto
             </p>
             <h2 className="mt-12 max-w-xl text-4xl font-medium tracking-tight sm:text-6xl">
-              Make me millionaire — by helping me make more useful things.
+              Make me millionaire - by helping me make more useful things.
             </h2>
             <p className="mt-6 max-w-md leading-7 opacity-80">
               I want to turn curiosity into products, products into

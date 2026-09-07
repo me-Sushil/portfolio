@@ -6,7 +6,7 @@ import { PageHeader } from "@/components/ui-bits";
 import { volunteering, writing } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Writing — Sushil Bishowkarma",
+  title: "Writing - Sushil Bishowkarma",
   description: "Articles and volunteering by Sushil Bishowkarma.",
 };
 

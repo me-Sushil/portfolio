@@ -7,7 +7,7 @@ import { PageHeader, Pill } from "@/components/ui-bits";
 import { collection, moreRepos, socials } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Collection — Sushil Bishowkarma",
+  title: "Collection - Sushil Bishowkarma",
   description: "A living archive of coins, rare things, personal objects, and digital experiments.",
 };
 

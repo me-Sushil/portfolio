@@ -21,7 +21,7 @@ export function ContactForm() {
         { publicKey: process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY || "" },
       );
       formRef.current.reset();
-      setStatus("Message sent — thank you.");
+      setStatus("Message sent - thank you.");
     } catch {
       setStatus("Please email me directly at me.sushilbishowkarma@gmail.com.");
     }

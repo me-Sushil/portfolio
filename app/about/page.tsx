@@ -6,7 +6,7 @@ import { PageHeader, Pill, SectionLabel } from "@/components/ui-bits";
 import { certifications, education, profile, skillGroups } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "About — Sushil Bishowkarma",
+  title: "About - Sushil Bishowkarma",
   description:
     "Bio, education, certifications, and technical toolkit of Sushil Bishowkarma.",
 };

@@ -5,7 +5,7 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://sushilbishowkarma.com'),
   title: {
-    default: 'Sushil Bishowkarma — Full-Stack Developer',
+    default: 'Sushil Bishowkarma - Full-Stack Developer',
     template: '%s',
   },
   description:
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     apple: '/TabLogo.png',
   },
   openGraph: {
-    title: 'Sushil Bishowkarma — Full-Stack Developer',
+    title: 'Sushil Bishowkarma - Full-Stack Developer',
     description:
       'Full-Stack Developer building AI, Web3, and humanitarian-tech products with TypeScript, Next.js, NestJS, and PostgreSQL.',
     type: 'website',

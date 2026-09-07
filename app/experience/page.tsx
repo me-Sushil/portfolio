@@ -5,7 +5,7 @@ import { PageHeader, Pill } from "@/components/ui-bits";
 import { experience } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Experience — Sushil Bishowkarma",
+  title: "Experience - Sushil Bishowkarma",
   description: "Full professional experience timeline of Sushil Bishowkarma.",
 };
 
@@ -23,7 +23,7 @@ export default function ExperiencePage() {
               through <em className="text-accent">range.</em>
             </>
           }
-          description="From technical support to founding a product to shipping blockchain-based humanitarian platforms — the roles that shaped how I build."
+          description="From technical support to founding a product to shipping blockchain-based humanitarian platforms - the roles that shaped how I build."
         />
         <div className="max-w-4xl">
           {experience.map((item) => (

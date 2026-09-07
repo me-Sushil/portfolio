@@ -6,7 +6,7 @@ import { ProjectCard } from "@/components/project-card";
 import { projects } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Work — Sushil Bishowkarma",
+  title: "Work - Sushil Bishowkarma",
   description: "Selected projects by Sushil Bishowkarma spanning AI, Web3, and product engineering.",
 };
 
@@ -18,7 +18,7 @@ export default function WorkPage() {
         <PageHeader
           eyebrow="Work"
           title="Made with intent."
-          description="A selection of shipped products, experiments, and open-source work — spanning AI, blockchain, and full-stack product engineering."
+          description="A selection of shipped products, experiments, and open-source work - spanning AI, blockchain, and full-stack product engineering."
         />
         <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
           {projects.map((project) => (

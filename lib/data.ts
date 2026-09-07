@@ -30,7 +30,7 @@ export const experience = [
   {
     company: "Rumsan",
     role: "Associate Software Engineer",
-    period: "Apr 2026 — Present",
+    period: "Apr 2026 - Present",
     detail:
       "Building blockchain-based humanitarian aid platforms with TanStack Start, NestJS, TypeScript, PostgreSQL, Web3, and real-time analytics.",
     skills: ["Next.js", "NestJS", "PostgreSQL", "Web3"],
@@ -38,7 +38,7 @@ export const experience = [
   {
     company: "EasyExamNotes",
     role: "Founder & CEO",
-    period: "Jan 2024 — Present",
+    period: "Jan 2024 - Present",
     detail:
       "Conceptualized, built, launched, and maintain a free semester-wise notes platform for IT and BCA students.",
     skills: ["WordPress", "Web Design", "SEO"],
@@ -46,7 +46,7 @@ export const experience = [
   {
     company: "Texas College of Management & IT",
     role: "ReactJS Instructor",
-    period: "Jan 2026 — Feb 2026",
+    period: "Jan 2026 - Feb 2026",
     detail:
       "Led intermediate and advanced React training across hooks, state, APIs, routing, forms, testing, GitHub, and deployment.",
     skills: ["React", "Mentoring", "Vercel"],
@@ -54,7 +54,7 @@ export const experience = [
   {
     company: "TEJ Fellowship",
     role: "Full-stack Developer",
-    period: "Jun 2025 — Feb 2026",
+    period: "Jun 2025 - Feb 2026",
     detail:
       "Developed scalable MERN applications and comprehensive Jest, RTL, and Playwright test suites in a collaborative Git workflow.",
     skills: ["React", "Node.js", "MongoDB", "Testing"],
@@ -62,7 +62,7 @@ export const experience = [
   {
     company: "Unity Networks Pvt. LTD",
     role: "Technical Support Representative",
-    period: "Oct 2021 — Feb 2023",
+    period: "Oct 2021 - Feb 2023",
     detail:
       "Resolved network issues, configured routers, managed access and subscriptions, and coordinated technical escalations.",
     skills: ["Linux", "Networking", "Communication"],
@@ -91,7 +91,7 @@ export const projects = [
   {
     name: "SkillUp-AI",
     category: "AI / Learning",
-    period: "Oct — Nov 2025",
+    period: "Oct - Nov 2025",
     description:
       "A personalized learning platform with AI tutoring, adaptive paths, generated quizzes, authentication, and progress tracking.",
     tech: ["React", "Express", "MongoDB", "Gemini"],
@@ -109,7 +109,7 @@ export const projects = [
   {
     name: "FriendCircle",
     category: "Mobile / University",
-    period: "Jan — May 2024",
+    period: "Jan - May 2024",
     description:
       "A community and friendship mobile app with chat, feeds, profiles, disappearing messages, likes, comments, and notifications.",
     tech: ["React Native", "Node.js", "Express", "MongoDB"],
@@ -121,10 +121,10 @@ export const collection = [
   {
     name: "Coins & old currency",
     detail:
-      "A personal cabinet of coins, notes, and old currency — collected for the stories pressed into metal and paper: places, people, eras, and everyday life.",
+      "A personal cabinet of coins, notes, and old currency - collected for the stories pressed into metal and paper: places, people, eras, and everyday life.",
     tag: "Rare currency · Personal",
     image: "/collection-coins.png",
-    url: "mailto:me.sushilbishowkarma@gmail.com?subject=Collection%20note%20—%20coins%20and%20currency",
+    url: "mailto:me.sushilbishowkarma@gmail.com?subject=Collection%20note%20-%20coins%20and%20currency",
   },
   {
     name: "Rare things with a story",
@@ -132,7 +132,7 @@ export const collection = [
       "Small objects worth keeping: unusual finds, heritage pieces, tools, and artifacts that make history feel close enough to hold.",
     tag: "Objects · Archive",
     image: "/collection-rare.png",
-    url: "mailto:me.sushilbishowkarma@gmail.com?subject=Collection%20note%20—%20rare%20things",
+    url: "mailto:me.sushilbishowkarma@gmail.com?subject=Collection%20note%20-%20rare%20things",
   },
   {
     name: "Personal things",
@@ -140,12 +140,12 @@ export const collection = [
       "A quiet record of meaningful possessions, photographs, books, and mementos connected to Sushil's family, work, and journey.",
     tag: "Memory · Personal",
     image: "/collection-personal.png",
-    url: "mailto:me.sushilbishowkarma@gmail.com?subject=Collection%20note%20—%20personal%20things",
+    url: "mailto:me.sushilbishowkarma@gmail.com?subject=Collection%20note%20-%20personal%20things",
   },
   {
     name: "Interactive experiments",
     detail:
-      "Coffee Clicker, Conway's Game of Life, Pixelate, Whack-a-Mole, and My Guessing Game — small interfaces where logic becomes tangible.",
+      "Coffee Clicker, Conway's Game of Life, Pixelate, Whack-a-Mole, and My Guessing Game - small interfaces where logic becomes tangible.",
     tag: "Digital artifacts · JavaScript",
     image: "/photo.jpeg",
     url: "https://github.com/me-Sushil",
@@ -207,19 +207,19 @@ export const education = [
   {
     institution: "Pokhara Vishwavidalaya",
     degree: "BCA, Information Technology, Computer",
-    period: "Jan 2019 — Jan 2024",
+    period: "Jan 2019 - Jan 2024",
     grade: "Bachelor",
   },
   {
     institution: "Naharpur Higher Secondary School",
     degree: "NEB, Business Administration and Management, Mathematics",
-    period: "Jul 2017 — Jan 2019",
+    period: "Jul 2017 - Jan 2019",
     grade: "+2",
   },
   {
     institution: "Shree Mahendra Darshan Secondary School",
     degree: "Mathematics",
-    period: "Apr 2006 — Sep 2016",
+    period: "Apr 2006 - Sep 2016",
     grade: "SEE",
   },
 ];
@@ -246,7 +246,7 @@ export const certifications = [
     note: "Cybersecurity and SIEM foundations",
   },
   {
-    name: "Git and GitHub — Beyond Basics",
+    name: "Git and GitHub - Beyond Basics",
     issuer: "Red Dot Technologies",
     date: "Jul 2025",
     note: "Git and GitHub workflows",
